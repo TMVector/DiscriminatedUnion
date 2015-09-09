@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TMV.DiscriminatedUnion", "TMV.DiscriminatedUnion\TMV.DiscriminatedUnion.csproj", "{C5FC7D2C-A85F-45CD-ADFF-5692A68D20EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TMV.DiscriminatedUnion.Test", "TMV.DiscriminatedUnion.Test\TMV.DiscriminatedUnion.Test.csproj", "{F195D654-7CDF-4292-B901-3406FC707ACF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Check|Any CPU = Check|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5FC7D2C-A85F-45CD-ADFF-5692A68D20EC}.Check|Any CPU.ActiveCfg = Check|Any CPU
+		{C5FC7D2C-A85F-45CD-ADFF-5692A68D20EC}.Check|Any CPU.Build.0 = Check|Any CPU
+		{C5FC7D2C-A85F-45CD-ADFF-5692A68D20EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5FC7D2C-A85F-45CD-ADFF-5692A68D20EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5FC7D2C-A85F-45CD-ADFF-5692A68D20EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5FC7D2C-A85F-45CD-ADFF-5692A68D20EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F195D654-7CDF-4292-B901-3406FC707ACF}.Check|Any CPU.ActiveCfg = Debug|Any CPU
+		{F195D654-7CDF-4292-B901-3406FC707ACF}.Check|Any CPU.Build.0 = Debug|Any CPU
+		{F195D654-7CDF-4292-B901-3406FC707ACF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F195D654-7CDF-4292-B901-3406FC707ACF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F195D654-7CDF-4292-B901-3406FC707ACF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F195D654-7CDF-4292-B901-3406FC707ACF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
