@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TMV.DiscriminatedUnion", "T
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TMV.DiscriminatedUnion.Test", "TMV.DiscriminatedUnion.Test\TMV.DiscriminatedUnion.Test.csproj", "{F195D654-7CDF-4292-B901-3406FC707ACF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TMV.DiscriminatedUnion.Example", "TMV.DiscriminatedUnion.Example\TMV.DiscriminatedUnion.Example.csproj", "{E6C2F92D-EF2E-47F0-B6C0-2FFAF7EF330B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Check|Any CPU = Check|Any CPU
@@ -26,6 +28,12 @@ Global
 		{F195D654-7CDF-4292-B901-3406FC707ACF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F195D654-7CDF-4292-B901-3406FC707ACF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F195D654-7CDF-4292-B901-3406FC707ACF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6C2F92D-EF2E-47F0-B6C0-2FFAF7EF330B}.Check|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6C2F92D-EF2E-47F0-B6C0-2FFAF7EF330B}.Check|Any CPU.Build.0 = Debug|Any CPU
+		{E6C2F92D-EF2E-47F0-B6C0-2FFAF7EF330B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6C2F92D-EF2E-47F0-B6C0-2FFAF7EF330B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6C2F92D-EF2E-47F0-B6C0-2FFAF7EF330B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6C2F92D-EF2E-47F0-B6C0-2FFAF7EF330B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
