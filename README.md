@@ -27,7 +27,7 @@ int wheels = vehicle.Match(
 );
 ```
 
-Or you can extend the Union type. It's neater and safer, but you have to implement each of the constrcutors :(
+Or you can extend the Union type. It's neater and safer, but you have to implement each of the constructors :(
 
 ```csharp
 class Vehicle : Union<Bike, Car, Lorry>
