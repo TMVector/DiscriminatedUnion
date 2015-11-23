@@ -43,6 +43,6 @@ Vehicle vehicle = new Vehicle(new Bike());
 int wheels = vehicle.Match(
   Bike b => 2,
   Car c => 4,
-  Lorry l => l.Weight < 18 ? then 4 : 12
+  Lorry l => l.Weight < 18 ? 4 : 12
 );
 ```
